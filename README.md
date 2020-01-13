@@ -1,2 +1,0 @@
-# Jogo-Da-Velha
-C++
